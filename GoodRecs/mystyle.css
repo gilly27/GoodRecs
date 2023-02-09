@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(221, 255, 243);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+  }
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+  }
+body {
+    font-family: sans-serif;
+    text-align: center;
+}

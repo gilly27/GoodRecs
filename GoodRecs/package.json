@@ -1,0 +1,17 @@
+{
+  "name": "goodrecs",
+  "version": "1.0.0",
+  "description": "book recommendations given by openai based on user's goodreads reviews ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Edward Gilchrist",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  },
+  "dependencies": {
+    "openai": "^3.1.0"
+  }
+}
